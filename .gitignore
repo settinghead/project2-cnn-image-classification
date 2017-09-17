@@ -1,0 +1,9 @@
+*.gz
+/cifar-10-batches-py
+__pycache__
+/checkpoint
+*.data-*
+*.index
+*.meta
+*.p
+/.ipython_checkpoints
